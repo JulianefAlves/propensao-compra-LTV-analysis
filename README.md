@@ -31,5 +31,7 @@ A análise demonstra que o uso de modelos de árvores e técnicas de agrupamento
 * A precisão do modelo de regressão oferece segurança para a projeção de receitas futuras e planejamento de estoque.
 * A solução entrega uma visualização clara dos resultados, facilitando a comunicação entre a área técnica e os stakeholders de negócio.
 
+  ![Gráfico de Segmentação de Clientes](segmentacao_clientes.png)
+
 ---
 **Tecnologias Utilizadas:** Python, Pandas, Scikit-learn, Matplotlib e Seaborn.
